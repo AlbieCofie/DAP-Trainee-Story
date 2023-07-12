@@ -16,13 +16,13 @@ The Career Accelerator phase has introduced me to a wide range of essential conc
 Several factors enticed me to join the Data Analytics Program. Firstly, the growing demand for data analytics professionals in today's data-driven world motivated me to enhance my skills in this field. The program's comprehensive curriculum, covering various aspects of data analytics, appealed to me as it offered a well-rounded education. Additionally, the hands-on and practical approach of the program, coupled with the opportunity to work on real-world projects, attracted me as it provided valuable industry experience. Finally, the reputation of the program and the expertise of the instructors convinced me that it would be a valuable investment in my professional development.
 
 ## What would I say my progress in tech has been since joining the program ? 
-`Please add text here...`
+Since joining the program, my progress in the tech field has been exceptional. I have advanced my skills in data analytics significantly, gaining expertise in data manipulation techniques using Python libraries such as pandas and NumPy. I have also honed my data visualization abilities by utilizing tools like Matplotlib and Seaborn to create insightful visual representations of complex datasets. Additionally, I have made significant strides in machine learning, implementing algorithms for regression, classification tasks using scikit-learn etc. Moreover, I have gained practical experience in building interactive and efficient data analytics applications using streamlit, radio, and FastAPI. The program has also introduced me to natural language processing (NLP) using Huggingface, enabling me to develop models for text analysis and sentiment classification. Overall, my progress in the tech field since joining the program has been marked by substantial growth and a broadening skill set in data analytics and related technologies.
 
 ## What are my plans for the future ?
 `Please add text here...`
 
 ## What is my dream company or role ?
-`Please add text here...`
+In my dream role, I envision myself as a Data Analyst or Data Scientist specializing in utilizing data analytics for social media and digital marketing purposes. I would leverage my expertise in data analysis to extract valuable insights from social media and digital marketing data. Working closely with marketing teams, I would track campaign performance, identify trends, and optimize marketing strategies based on data-driven insights. Utilizing tools and techniques, I would collect, clean, analyze, and visualize data from various social media platforms and digital marketing channels. By applying data analytics in the realm of social media and digital marketing, I would play a pivotal role in driving data-informed decision-making and maximizing marketing effectiveness.
 
 ## 1st Phase Projects' Summary Table
 `Please add text here...`
