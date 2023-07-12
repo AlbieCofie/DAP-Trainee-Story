@@ -75,12 +75,12 @@ In my dream role, I envision myself as a Data Analyst or Data Scientist speciali
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add the article link here...</td>
-<td>Add the deployed app link here...</td>
-<td>Add the app repository link here...</td>
-<td>Add the development repository link here...</td>
+<td>Indian Startup Ecosystem — Which Industry is more likely to get Funding?</td>
+<td>Exploring Indian startup funding: Analyzing data from 2018-2021 to uncover the industries most likely to receive funding. Discover the key findings and insights on the dominance of technological companies.</td>
+<td>[Read more on my blog](https://medium.com/@albiecofie2000/indian-startup-ecosystem-which-industry-is-more-likely-to-get-funding-d00222ee47ff)</td>
+<td></td>
+<td></td>
+<td>[GitHub repository] (https://github.com/AlbieCofie/Indian-Startup-Ecosystem)</td>
 </tr>
 
 <tr>
